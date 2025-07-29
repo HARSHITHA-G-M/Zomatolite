@@ -1,7 +1,6 @@
 # 🍽️ Zomatolite — A Mini Restaurant Web App with Flask + MySQL + Docker
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Docker%20Compose-orange)
 ![Made with](https://img.shields.io/badge/Made%20With-Flask-blue)
 
